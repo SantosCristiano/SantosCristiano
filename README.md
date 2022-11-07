@@ -7,7 +7,7 @@
 
 - I’m Senior Full Stack Cycle | DevSecOps Engineer | Mobile Tech Lead at Diebold Nixdorf, Incorporated. (https://www.dieboldnixdorf.com)
 
-- I'm Manager & Co-Founder at Teckins Inc. 技術集成系統 (https://teckins.com)
+- I'm Dreamer at Teckins Inc. 技術集成系統 (https://teckins.com)
 
 <br><br>
 
