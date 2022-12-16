@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SantosCristiano&color=yellow" alt="Profile views" /> </p>
 
 
-- I’m Software Engineer & Data Scientist
+- I’m Software Engineer
 
 - I’m Senior Full Stack Cycle | DevSecOps Engineer | Tech Lead at Diebold Nixdorf, Incorporated. (https://www.dieboldnixdorf.com)
 
