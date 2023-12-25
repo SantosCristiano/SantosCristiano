@@ -1,13 +1,13 @@
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> People, I`m Cristiano Santos </h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> People, I`m Cris Santos </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SantosCristiano&color=yellow" alt="Profile views" /> </p>
 
 
 - I’m Software Engineer
 
-- I’m Senior Full Stack Cycle | DevSecOps Engineer | Tech Lead at Diebold Nixdorf, Incorporated. (https://www.dieboldnixdorf.com)
+- I’m Senior Analyst Developer | DevSecOps Engineer at Compugraf. (https://www.compugraf.com.br)
 
-- I'm Dreamer at Teckins Inc. (https://teckins.com)
+- I'm Business Partner at Teckins Enterprises, Inc. (https://teckins.com)
 
 <br><br>
 
