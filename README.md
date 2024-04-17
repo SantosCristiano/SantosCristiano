@@ -3,11 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SantosCristiano&color=yellow" alt="Profile views" /> </p>
 
 
-- I’m Software Engineer
+- I’m Software Engineer(2019-2023) and Computer Scientist(2015-2018)
 
-- I’m Senior Analyst Developer | DevSecOps Engineer at Compugraf. (https://www.compugraf.com.br)
-
-- I'm Business Partner at Teckins Enterprises, Inc. (https://teckins.com)
+- I'm Machine Learning Engineer at Teckins Enterprises, Inc. (https://teckins.com)
 
 <br><br>
 
