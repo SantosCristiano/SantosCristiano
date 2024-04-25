@@ -5,7 +5,7 @@
 
 - I’m Software Engineer(2019-2023) and Computer Scientist(2015-2018)
 
-- I'm Machine Learning Engineer at Teckins Enterprises, Inc. (https://teckins.com)
+- I'm Senior Software Engineer | AI/ML/DL/G/RL Engineer | Tech Lead at Teckins Enterprises, Inc. (https://teckins.com)
 
 <br><br>
 
