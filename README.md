@@ -70,11 +70,10 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
 
 <!--p align="center">
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=SantosCristiano&show_icons=true&theme=vision-friendly-dark" alt="SantosCristiano's stats"/>
 <!img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosCristiano&layout=compact&theme=vision-friendly-dark" alt="SantosCristiano's most languages"/>
 </p-->
