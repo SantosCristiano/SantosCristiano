@@ -76,7 +76,7 @@
 
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=SantosCristiano&show_icons=true&theme=vision-friendly-dark" alt="SantosCristiano's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosCristiano&layout=compact&theme=vision-friendly-dark" alt="SantosCristiano's most languages"/>
+<!--img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosCristiano&layout=compact&theme=vision-friendly-dark" alt="SantosCristiano's most languages"/-->
 </p>
 
 <br><br>
