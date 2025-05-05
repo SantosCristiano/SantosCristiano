@@ -75,14 +75,3 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=SantosCristiano&show_icons=true&theme=vision-friendly-dark" alt="SantosCristiano's stats"/>
 <!img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosCristiano&layout=compact&theme=vision-friendly-dark" alt="SantosCristiano's most languages"/>
 </p-->
-
-<br><br>
-
-🙍🏼‍♂ &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/cris-santos-038100100/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a> 
-
-</p>
