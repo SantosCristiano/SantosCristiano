@@ -1,6 +1,6 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> People, I'm Cris Santos </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SantosCristiano&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SantosCristiano&color=yellow" alt="Profile views" /> </p> -->
 
 
 - I'm Software Engineer(2019-2023) and Computer Scientist(2015-2018)
