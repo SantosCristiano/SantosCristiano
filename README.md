@@ -5,8 +5,6 @@
 
 - I'm Software Engineer(2019-2023) and Computer Scientist(2015-2018)
 
-- I'm Senior Software Engineer | DevSecOps Engineer | Tech Lead at Teckins Enterprises, Inc. (https://teckins.com)
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
