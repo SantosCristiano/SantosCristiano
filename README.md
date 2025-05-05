@@ -5,8 +5,6 @@
 
 - I'm Software Engineer(2019-2023) and Computer Scientist(2015-2018)
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
